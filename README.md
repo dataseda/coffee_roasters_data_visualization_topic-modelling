@@ -7,4 +7,4 @@ Python was preferred for the PyLDAvis graph in topic modeling and the R script s
 ##TR: Bu not defteri Kaggle/"coffee-reviews-dataset" veriseti için hazırlanmış Python ve R kod dosyalarını içermektedir. Veri kaynağı:https://www.kaggle.com/datasets/schmoyote/coffee-reviews-dataset. İnfografik Canva aracılığı ile tasarlanmıştır. Konu modelleme PyLDAvis grafiği için Python, diğer görsel grafikler için R kullanılmıştır. PyLDAvis grafiğinin interaktif haline ulaşmak için; "coffee_roast.ipynb" dosyası içerisinde yer alan "open in colab" butonuna tıklayarak Colab not defterime ulaşabilir ve görüntüleyebilirsiniz.
 
 
-![Uploading Adsız (2714 x 4110 piksel).png…]()
+![Adsız (2714 x 4110 piksel)](https://github.com/dataseda/coffee_roasters_data/assets/128044587/a387a064-b225-4ab4-82f8-3b11e2e94e34)
