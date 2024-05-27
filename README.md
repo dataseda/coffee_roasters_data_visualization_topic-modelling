@@ -6,3 +6,4 @@ Python was preferred for the PLDAvis graph in topic modeling and the R script sh
 
 ![image](https://github.com/dataseda/coffee_roasters_data/assets/128044587/27c39618-fa60-4560-a5c3-4ccd304b6660)
 
+![infograph](https://github.com/dataseda/coffee_roasters_data/assets/128044587/36630539-7628-4503-8aa3-df0c927a36d0)
