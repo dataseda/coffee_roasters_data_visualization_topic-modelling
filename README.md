@@ -2,3 +2,5 @@
 #data visualization and topic modelling
 
 #This notebook contains Python and R code examples for the Kaggle coffee roaster dataset. Python was preferred for the PLDAvis graph in topic modeling, and the R script is included for data visualization.
+![image](https://github.com/dataseda/coffee_roasters_data/assets/128044587/27c39618-fa60-4560-a5c3-4ccd304b6660)
+
